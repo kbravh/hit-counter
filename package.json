@@ -1,0 +1,13 @@
+{
+  "name": "hit-counter",
+  "version": "1.0.0",
+  "description": "A serverless function to count website hits.",
+  "main": "index.js",
+  "repository": "https://github.com/kbravh/hit-counter.git",
+  "author": "Karey Higuera <karey.higuera@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "aws-sdk": "^2.706.0"
+  }
+}
