@@ -8,6 +8,6 @@
   "license": "MIT",
   "private": false,
   "devDependencies": {
-    "aws-sdk": "^2.706.0"
+    "aws-sdk": "^2.814.0"
   }
 }
